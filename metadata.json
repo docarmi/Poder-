@@ -1,0 +1,5 @@
+{
+  "name": "Évaluateur de Santé 13-MD",
+  "description": "Une application web interactive pour évaluer la qualité de vie liée à la santé en utilisant l'outil 13-MD, calculant automatiquement les scores d'utilité basés sur les coefficients de recherche.",
+  "requestFramePermissions": []
+}
